@@ -14,3 +14,6 @@ Usage
 
 * install java
 * install maven 2
+
+see scripts for further details. (This package requires access to data which is
+not provided by default.)
